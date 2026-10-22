@@ -1,16 +1,16 @@
-## Hi there 👋
+# Zdravo, ja sam Kenan! 👋
 
-<!--
-**kenanbjelic1995-beep/kenanbjelic1995-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dobrodošli na moj GitHub profil. Ja sam strastveni Web Developer koji voli raditi sa modernim web tehnologijama i kreirati funkcionalne, brze i skalabilne aplikacije.
 
-Here are some ideas to get you started:
+## 🚀 O meni
+- 🎓 Nedavno sam radio na svom diplomskom projektu za IT Academy. 
+- 💻 Trenutno razvijam aplikacije koristeći React i Supabase.
+- 🌱 Konstantno učim i unapređujem svoje vještine u frontend programiranju.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tehnologije koje koristim
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
+- **Backend & Baze:** Supabase, PostgreSQL
+- **Alati:** Git, GitHub
+
+## 📂 Izdvojeni projekat
+- [BiblioTech](https://github.com/kenanbjelic1995-beep/book-borrower-beacon) - Aplikacija za upravljanje bibliotečkim pozajmicama (React + Supabase).
